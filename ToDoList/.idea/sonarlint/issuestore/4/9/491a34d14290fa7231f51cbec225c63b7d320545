@@ -1,0 +1,17 @@
+
+C
+java:S1604E"(Make this anonymous inner class a lambda(øè¸Æıÿÿÿÿ
+z
+java:S1488%"dImmediately return this expression instead of assigning it to the temporary variable "taskFragment".(ê˜¹
+l
+java:S3008"VRename this field "ARG_TASK_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œİÿ
+t
+java:S1450"YRemove the "dateButton" field and declare it as a local variable in the relevant methods.(ˆŸªùùÿÿÿÿ
+v
+java:S1450"[Remove the "doneCheckbox" field and declare it as a local variable in the relevant methods.(ÈÂ²œüÿÿÿÿ
+s
+java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(¡¥‹úÿÿÿÿ
+—
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+—
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
